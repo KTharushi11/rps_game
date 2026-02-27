@@ -145,7 +145,7 @@ class _RockPaperScissorsState extends State<RockPaperScissors> {
                   ElevatedButton(
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.blue,
-                      foregroundColor: const Color.fromARGB(255, 0, 0, 0),
+                      foregroundColor: const Color.fromARGB(255, 255, 255, 255),
                       padding: const EdgeInsets.symmetric(
                         horizontal: 18,
                         vertical: 10,
